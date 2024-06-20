@@ -5,3 +5,6 @@
 azure-functions
 office365-REST-Python-Client
 office365
+azure-storage-blob
+azure-identity
+azure-keyvault-secrets
